@@ -1,1 +1,19 @@
+ ID number: #324789
+ Application: Vizio
+ Pre-conditions: Open the site https://www.vizio.com/, the user   don't need to be logged in
+ URL: https://www.vizio.com/
+ Reported by: Mariana Silanteva
+ Summary: ZIP_field accepts letters instead of being digits                    only
+ Steps to reproduce:
+   step1: Open main menu
+   step2: Click Find a retailer
+   step3: Enter invalid ZIP B15019
+   step4: Click button Search
+ Expected result: if you enter the invalid ZIP code you see an error message
+ Actual result: ZIP field accepts letters and opens the map with the nearest shops
+ Attachments: Screenshot
+ Severity: major
+ Priority: medium
+ Environment: Windows 11 Pro Chrome 116.0.5845.141 (official), (64 bit)
+ Assigned to:
 
