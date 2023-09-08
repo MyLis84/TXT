@@ -6,3 +6,4 @@ Client-server architecture,
 Terminal Linux,
 Devtools,
 JavaScript,
+Mobile testing
